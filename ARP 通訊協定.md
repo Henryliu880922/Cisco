@@ -1,6 +1,6 @@
 架構
 ===
-![image](https://github.com/Henryliu880922/Cisco/blob/main/%E6%9E%B6%E6%A7%8B.jpg)  
+![image](https://github.com/Henryliu880922/Cisco/blob/main/pic/%E6%9E%B6%E6%A7%8B.jpg)  
 
 模擬架構
 ===
