@@ -4,10 +4,10 @@
 
 模擬架構
 ===
-![image](https://github.com/Henryliu880922/Cisco/blob/main/simulation.jpg)  
+![image](https://github.com/Henryliu880922/Cisco/blob/main/pic/simulation.jpg)  
 
 * 點選Edit Filters  
-![image](https://github.com/Henryliu880922/Cisco/blob/main/Edit%20Filters.jpg)  
+![image](https://github.com/Henryliu880922/Cisco/blob/main/pic/Edit%20Filters.jpg)  
 
 * 會跳出  
 ![image](https://github.com/Henryliu880922/Cisco/blob/main/pic/ARPandICMP.jpg)  
