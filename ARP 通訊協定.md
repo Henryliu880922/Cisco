@@ -15,7 +15,7 @@
 * 僅勾選ARP以及ICMP即可  
 ![image](https://github.com/Henryliu880922/Cisco/blob/main/pic/ARPandICMP.jpg)  
 
-* 並確定ARP表格為空  
+* 並確定ARP表格為  
 PC0  
 ![image](https://github.com/Henryliu880922/Cisco/blob/main/pic/PC0%20ARP%20Table.jpg)  
 
