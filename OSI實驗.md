@@ -85,3 +85,9 @@
 
 ![image](https://github.com/Henryliu880922/Cisco/blob/main/pic/OSI%E5%AF%A6%E9%A9%97/HTTP%20Router%20Routing%20Table.jpg)  
 
+![image](https://github.com/Henryliu880922/Cisco/blob/main/pic/OSI%E5%AF%A6%E9%A9%97/%E9%9B%A2%E9%96%8B%E8%B7%AF%E7%94%B1%E5%99%A8%E7%9A%84%E5%B0%81%E5%8C%85%E5%82%B3%E9%80%81%E8%B3%87%E8%A8%8A.jpg)  
+
+* 成功顯示網頁  
+![image](https://github.com/Henryliu880922/Cisco/blob/main/pic/OSI%E5%AF%A6%E9%A9%97/PCA%20%E5%82%B3%E8%BC%B8%E6%88%90%E5%8A%9F.jpg)  
+
+![image](https://github.com/Henryliu880922/Cisco/blob/main/pic/OSI%E5%AF%A6%E9%A9%97/PCA%20%E6%88%90%E5%8A%9F%E9%A1%AF%E7%A4%BA%E7%B6%B2%E9%A0%81.jpg)  
